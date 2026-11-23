@@ -1,0 +1,31 @@
+activity_type,weather_disruption_days,material_delay_days,labour_shortfall_pct,design_change_count,dependency_delay_days,planned_duration_days,delayed
+Excavation,0,2,20.3,2,0,102,0
+External works,5,3,18.4,3,0,31,0
+Masonry,1,3,21.2,3,1,90,1
+External works,0,5,25.7,0,3,39,1
+RCC,1,4,8.4,0,4,37,0
+Finishing,1,1,27.4,1,2,84,0
+External works,4,3,22.9,1,3,73,0
+Finishing,0,4,4.1,0,2,58,0
+Excavation,3,3,5.8,0,3,103,0
+Finishing,4,3,17.8,0,3,86,1
+External works,3,3,10.6,0,1,56,1
+Excavation,1,4,1.6,0,4,17,0
+Finishing,6,1,19.3,1,1,38,1
+Excavation,3,1,4.6,0,5,74,0
+Finishing,3,2,15.6,2,0,70,0
+RCC,1,8,13.3,0,1,71,1
+Masonry,0,5,27.2,0,0,52,1
+MEP,0,5,7.6,0,2,82,0
+Masonry,0,3,21.3,2,1,43,1
+Finishing,2,3,28.8,0,0,118,0
+External works,1,3,17.2,0,1,99,0
+Masonry,2,1,22.1,2,1,108,0
+Finishing,3,5,18.6,3,2,66,1
+RCC,1,6,20.2,0,4,82,1
+Finishing,1,6,20.1,0,1,17,1
+MEP,2,4,19.4,2,1,50,1
+External works,6,2,10.8,0,0,77,0
+External works,0,2,16.8,2,1,30,0
+Finishing,1,5,21.3,3,1,20,1
+Masonry,0,4,9.1,0,0,94,0
